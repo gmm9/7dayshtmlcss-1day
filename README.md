@@ -23,6 +23,7 @@
 A teoria é importante, mas precisamos sempre praticar o que aprendemos, e uma das formas de praticar HTML e CSS é replicar ou recriar o layout de algum site famoso. Foi desse tipo de prática que surgiu a ideia do projeto que você vai desenvolver nos próximos 7 dias: uma réplica da página de perfil do LinkedIn.
 
 Você provavelmente conhece o LinkedIn. É a rede social profissional onde, além de fazer networking com pessoas da sua área de atuação, também é possível aplicar para vagas de emprego. Caso você não a conheça, sugiro que crie uma conta por lá assim que se sentir confortável com isso. Assim, você poderá usar as ferramentas de desenvolvedor para inspecionar os elementos da página, caso queira ver como algum elemento foi feito.
+
 ![image](https://user-images.githubusercontent.com/40903360/180357839-7a2ffe15-4aa6-4d6d-85eb-ef1db768614d.png)
 
 </p>
