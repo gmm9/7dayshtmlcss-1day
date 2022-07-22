@@ -1,0 +1,33 @@
+:root {
+    --fundo-card:#1B2226;
+    --texto-primario: rgba(255, 255, 255, 0.9);
+    --transparent: transparent;
+    --primario: #70B5F9;
+    --texto-escuro: rgba(0, 0, 0, 0.75);
+    --texto-secundario: rgba(255, 255, 255, 0.6);
+    --input : #38434F;
+}
+
+
+*,*::before,*::after {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.botao {
+    font-size: 14px;
+    color: var(--texto-escuro);
+    font-weight: 500;
+    display: inline-block;
+    padding: 0.5em;
+    background-color: var(--primario);
+    border-radius: 16px;
+    width: 35%;
+    text-align: center;
+}
+.botao__transparente {
+    background: var(--transparent);
+    border: 1px solid var(--primario);
+    color: var(--primario);
+}
